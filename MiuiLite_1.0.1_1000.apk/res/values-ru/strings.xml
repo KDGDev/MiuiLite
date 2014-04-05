@@ -6,24 +6,24 @@
      <string name="about_detail_3">MIUI располагает самой большой библиотекой тем экрана блокировки, так же как и талантливыми пользователями и дизайнерами. Не имеет значения кто ты - лишь воображение устанавливает границы.</string>
      <string name="about_detail_4">"Для более детальной информации, пожалуйста, посетите
 http://www.miui.com"</string>
-     <string name="about_smart_antispam_summary">About this feature</string>
+     <string name="about_smart_antispam_summary">Об этой функции</string>
      <string name="about_telephone_fraud">Watch out for telephone fraud</string>
-     <string name="access_denied">Access denied</string>
+     <string name="access_denied">Доступ запрещен</string>
      <string name="access_token_expired_warning">Weibo account has expired: please rebind</string>
      <string name="access_token_invalid_warning">Weibo account is invalid: please rebind</string>
      <string name="accessibility_calllog_detail">Call log details</string>
-     <string name="account">Account</string>
+     <string name="account">Аккаунт</string>
      <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста выполните вход снова!</string>
-     <string name="account_center">Current Account</string>
+     <string name="account_center">Текущий аккаунт</string>
      <string name="account_container_title">Imported from</string>
      <string name="account_default">Phone</string>
-     <string name="account_delete_confirm">Are yout sure to delete the account？</string>
-     <string name="account_detail">"Xiaomi account:
+     <string name="account_delete_confirm">Вы уверены, что хотите удалить этот аккаунт？</string>
+     <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
      <string name="account_dspt">Sync and back up your contacts, messages, photos, and notes.</string>
-     <string name="account_hint_text">Email or phone number</string>
-     <string name="account_info">My Account</string>
-     <string name="account_name">Account: %1$s</string>
+     <string name="account_hint_text">Email или номер телефона/string>
+     <string name="account_info">Мой аккаунт</string>
+     <string name="account_name">Аккаунт: %1$s</string>
      <string name="account_phone">Phone-only, unsynced</string>
      <string name="account_sim">SIM card</string>
      <string name="account_sim2">SIM card %d</string>
